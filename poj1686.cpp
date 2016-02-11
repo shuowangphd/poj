@@ -1,3 +1,4 @@
+// http://poj.org/problem?id=1686
 #include <iostream>
 #include <cstdio>
 #include <stack>
